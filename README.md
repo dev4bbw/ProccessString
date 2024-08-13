@@ -2,9 +2,15 @@
 
 This is a simple Java project for processing strings. The project provides two main functionalities:
 
-1. **Remove Consecutive Identical Characters**
+1.**All input alphabet characters a-z**
 
-2. **Replace Consecutive Identical Characters**
+2.**Remove Consecutive Identical Characters**
+
+3**Replace Consecutive Identical Characters**
+
+## Design Pattern
+**Adapter Pattern**
+**Strategy Pattern**
 
 ## Functionality
 
